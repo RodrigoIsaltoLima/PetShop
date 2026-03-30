@@ -13,4 +13,4 @@ principalmente de nível técnico - **IFSP**
 
 `npm run dev`
 
-Autor: **Lucas Gabriel Limongi Ferreira dos Santos**
+Autor: **Rodrigo Isalto Lima**
